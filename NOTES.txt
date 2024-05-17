@@ -10,3 +10,7 @@ starkli deploy 0x0312b3b122dae7794b95f5f3e35b7da8a8789bde16874390430a5bbe2a99e18
     --watch\
     --max-fee-raw 910424616806670
  ```
+
+ CONTRACT DEPLOYED:
+ Address = 0x0190b6744294700cfa62d3b22446ea2fb71c7476bd8f0ac39fe3bce91aafaff4
+ Successful test Tx => https://sepolia.starkscan.co/tx/0x4d096b4727033dfda0343cc6ec693c248839d5130ad27fba8ae3459d043cd66
