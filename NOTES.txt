@@ -1,0 +1,12 @@
+Command used to declare contract with Starkli:
+`starkli declare target/dev/counter_Counter.contract_class.json`
+
+Command used to deploy contract with Starkli:
+```
+starkli deploy 0x0312b3b122dae7794b95f5f3e35b7da8a8789bde16874390430a5bbe2a99e185\
+    100\
+    0x05f7151ea24624e12dde7e1307f9048073196644aa54d74a9c579a257214b542\
+    0x067de9301b1a536800e50AF781Ea93b3918D6b431b781246864f24CAB5e4c34E\
+    --watch\
+    --max-fee-raw 910424616806670
+ ```
